@@ -12,7 +12,6 @@
 .svn/
 .vscode/
 .idea/
-README.md
 build/
 coverage/
 ios/.generated/
