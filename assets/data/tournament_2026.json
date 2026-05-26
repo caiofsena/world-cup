@@ -1,0 +1,1750 @@
+{
+  "teams": [
+    {
+      "id": "mex",
+      "name": "México",
+      "fifaCode": "MEX",
+      "flagCode": "mx"
+    },
+    {
+      "id": "rsa",
+      "name": "África do Sul",
+      "fifaCode": "RSA",
+      "flagCode": "za"
+    },
+    {
+      "id": "kor",
+      "name": "Coreia do Sul",
+      "fifaCode": "KOR",
+      "flagCode": "kr"
+    },
+    {
+      "id": "cze",
+      "name": "República Tcheca",
+      "fifaCode": "CZE",
+      "flagCode": "cz"
+    },
+    {
+      "id": "can",
+      "name": "Canadá",
+      "fifaCode": "CAN",
+      "flagCode": "ca"
+    },
+    {
+      "id": "bih",
+      "name": "Bósnia e Herzegovina",
+      "fifaCode": "BIH",
+      "flagCode": "ba"
+    },
+    {
+      "id": "qat",
+      "name": "Catar",
+      "fifaCode": "QAT",
+      "flagCode": "qa"
+    },
+    {
+      "id": "sui",
+      "name": "Suíça",
+      "fifaCode": "SUI",
+      "flagCode": "ch"
+    },
+    {
+      "id": "bra",
+      "name": "Brasil",
+      "fifaCode": "BRA",
+      "flagCode": "br"
+    },
+    {
+      "id": "mar",
+      "name": "Marrocos",
+      "fifaCode": "MAR",
+      "flagCode": "ma"
+    },
+    {
+      "id": "hai",
+      "name": "Haiti",
+      "fifaCode": "HAI",
+      "flagCode": "ht"
+    },
+    {
+      "id": "sco",
+      "name": "Escócia",
+      "fifaCode": "SCO",
+      "flagCode": "gb-sct"
+    },
+    {
+      "id": "usa",
+      "name": "Estados Unidos",
+      "fifaCode": "USA",
+      "flagCode": "us"
+    },
+    {
+      "id": "par",
+      "name": "Paraguai",
+      "fifaCode": "PAR",
+      "flagCode": "py"
+    },
+    {
+      "id": "aus",
+      "name": "Austrália",
+      "fifaCode": "AUS",
+      "flagCode": "au"
+    },
+    {
+      "id": "tur",
+      "name": "Turquia",
+      "fifaCode": "TUR",
+      "flagCode": "tr"
+    },
+    {
+      "id": "ger",
+      "name": "Alemanha",
+      "fifaCode": "GER",
+      "flagCode": "de"
+    },
+    {
+      "id": "cuw",
+      "name": "Curaçao",
+      "fifaCode": "CUW",
+      "flagCode": "cw"
+    },
+    {
+      "id": "civ",
+      "name": "Costa do Marfim",
+      "fifaCode": "CIV",
+      "flagCode": "ci"
+    },
+    {
+      "id": "ecu",
+      "name": "Equador",
+      "fifaCode": "ECU",
+      "flagCode": "ec"
+    },
+    {
+      "id": "ned",
+      "name": "Holanda",
+      "fifaCode": "NED",
+      "flagCode": "nl"
+    },
+    {
+      "id": "jpn",
+      "name": "Japão",
+      "fifaCode": "JPN",
+      "flagCode": "jp"
+    },
+    {
+      "id": "swe",
+      "name": "Suécia",
+      "fifaCode": "SWE",
+      "flagCode": "se"
+    },
+    {
+      "id": "tun",
+      "name": "Tunísia",
+      "fifaCode": "TUN",
+      "flagCode": "tn"
+    },
+    {
+      "id": "bel",
+      "name": "Bélgica",
+      "fifaCode": "BEL",
+      "flagCode": "be"
+    },
+    {
+      "id": "egy",
+      "name": "Egito",
+      "fifaCode": "EGY",
+      "flagCode": "eg"
+    },
+    {
+      "id": "irn",
+      "name": "Irã",
+      "fifaCode": "IRN",
+      "flagCode": "ir"
+    },
+    {
+      "id": "nzl",
+      "name": "Nova Zelândia",
+      "fifaCode": "NZL",
+      "flagCode": "nz"
+    },
+    {
+      "id": "esp",
+      "name": "Espanha",
+      "fifaCode": "ESP",
+      "flagCode": "es"
+    },
+    {
+      "id": "cpv",
+      "name": "Cabo Verde",
+      "fifaCode": "CPV",
+      "flagCode": "cv"
+    },
+    {
+      "id": "ksa",
+      "name": "Arábia Saudita",
+      "fifaCode": "KSA",
+      "flagCode": "sa"
+    },
+    {
+      "id": "uru",
+      "name": "Uruguai",
+      "fifaCode": "URU",
+      "flagCode": "uy"
+    },
+    {
+      "id": "fra",
+      "name": "França",
+      "fifaCode": "FRA",
+      "flagCode": "fr"
+    },
+    {
+      "id": "sen",
+      "name": "Senegal",
+      "fifaCode": "SEN",
+      "flagCode": "sn"
+    },
+    {
+      "id": "irq",
+      "name": "Iraque",
+      "fifaCode": "IRQ",
+      "flagCode": "iq"
+    },
+    {
+      "id": "nor",
+      "name": "Noruega",
+      "fifaCode": "NOR",
+      "flagCode": "no"
+    },
+    {
+      "id": "arg",
+      "name": "Argentina",
+      "fifaCode": "ARG",
+      "flagCode": "ar"
+    },
+    {
+      "id": "alg",
+      "name": "Argélia",
+      "fifaCode": "ALG",
+      "flagCode": "dz"
+    },
+    {
+      "id": "aut",
+      "name": "Áustria",
+      "fifaCode": "AUT",
+      "flagCode": "at"
+    },
+    {
+      "id": "jor",
+      "name": "Jordânia",
+      "fifaCode": "JOR",
+      "flagCode": "jo"
+    },
+    {
+      "id": "por",
+      "name": "Portugal",
+      "fifaCode": "POR",
+      "flagCode": "pt"
+    },
+    {
+      "id": "cod",
+      "name": "RD Congo",
+      "fifaCode": "COD",
+      "flagCode": "cd"
+    },
+    {
+      "id": "uzb",
+      "name": "Uzbequistão",
+      "fifaCode": "UZB",
+      "flagCode": "uz"
+    },
+    {
+      "id": "col",
+      "name": "Colômbia",
+      "fifaCode": "COL",
+      "flagCode": "co"
+    },
+    {
+      "id": "eng",
+      "name": "Inglaterra",
+      "fifaCode": "ENG",
+      "flagCode": "gb-eng"
+    },
+    {
+      "id": "cro",
+      "name": "Croácia",
+      "fifaCode": "CRO",
+      "flagCode": "hr"
+    },
+    {
+      "id": "gha",
+      "name": "Gana",
+      "fifaCode": "GHA",
+      "flagCode": "gh"
+    },
+    {
+      "id": "pan",
+      "name": "Panamá",
+      "fifaCode": "PAN",
+      "flagCode": "pa"
+    }
+  ],
+  "groups": [
+    {
+      "letter": "A",
+      "teamIds": [
+        "mex",
+        "rsa",
+        "kor",
+        "cze"
+      ]
+    },
+    {
+      "letter": "B",
+      "teamIds": [
+        "can",
+        "bih",
+        "qat",
+        "sui"
+      ]
+    },
+    {
+      "letter": "C",
+      "teamIds": [
+        "bra",
+        "mar",
+        "hai",
+        "sco"
+      ]
+    },
+    {
+      "letter": "D",
+      "teamIds": [
+        "usa",
+        "par",
+        "aus",
+        "tur"
+      ]
+    },
+    {
+      "letter": "E",
+      "teamIds": [
+        "ger",
+        "cuw",
+        "civ",
+        "ecu"
+      ]
+    },
+    {
+      "letter": "F",
+      "teamIds": [
+        "ned",
+        "jpn",
+        "swe",
+        "tun"
+      ]
+    },
+    {
+      "letter": "G",
+      "teamIds": [
+        "bel",
+        "egy",
+        "irn",
+        "nzl"
+      ]
+    },
+    {
+      "letter": "H",
+      "teamIds": [
+        "esp",
+        "cpv",
+        "ksa",
+        "uru"
+      ]
+    },
+    {
+      "letter": "I",
+      "teamIds": [
+        "fra",
+        "sen",
+        "irq",
+        "nor"
+      ]
+    },
+    {
+      "letter": "J",
+      "teamIds": [
+        "arg",
+        "alg",
+        "aut",
+        "jor"
+      ]
+    },
+    {
+      "letter": "K",
+      "teamIds": [
+        "por",
+        "cod",
+        "uzb",
+        "col"
+      ]
+    },
+    {
+      "letter": "L",
+      "teamIds": [
+        "eng",
+        "cro",
+        "gha",
+        "pan"
+      ]
+    }
+  ],
+  "stadiums": [
+    {
+      "id": "azteca",
+      "name": "Estádio Azteca",
+      "city": "Cidade do México",
+      "country": "México"
+    },
+    {
+      "id": "bbva",
+      "name": "Estádio BBVA",
+      "city": "Monterrey",
+      "country": "México"
+    },
+    {
+      "id": "akron",
+      "name": "Estádio Akron",
+      "city": "Guadalajara",
+      "country": "México"
+    },
+    {
+      "id": "bmo",
+      "name": "BMO Field",
+      "city": "Toronto",
+      "country": "Canadá"
+    },
+    {
+      "id": "bcplace",
+      "name": "BC Place",
+      "city": "Vancouver",
+      "country": "Canadá"
+    },
+    {
+      "id": "metlife",
+      "name": "MetLife Stadium",
+      "city": "Nova York/Nova Jersey",
+      "country": "EUA"
+    },
+    {
+      "id": "sofi",
+      "name": "SoFi Stadium",
+      "city": "Los Angeles",
+      "country": "EUA"
+    },
+    {
+      "id": "att",
+      "name": "AT&T Stadium",
+      "city": "Dallas",
+      "country": "EUA"
+    },
+    {
+      "id": "arrowhead",
+      "name": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "country": "EUA"
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "EUA"
+    },
+    {
+      "id": "nrg",
+      "name": "NRG Stadium",
+      "city": "Houston",
+      "country": "EUA"
+    },
+    {
+      "id": "lumen",
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "country": "EUA"
+    },
+    {
+      "id": "levis",
+      "name": "Levi's Stadium",
+      "city": "São Francisco",
+      "country": "EUA"
+    },
+    {
+      "id": "gillette",
+      "name": "Gillette Stadium",
+      "city": "Boston",
+      "country": "EUA"
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln Financial Field",
+      "city": "Filadélfia",
+      "country": "EUA"
+    },
+    {
+      "id": "hardrock",
+      "name": "Hard Rock Stadium",
+      "city": "Miami",
+      "country": "EUA"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "mex",
+      "awayTeamId": "rsa",
+      "date": "2026-06-11T17:00:00",
+      "stadium": "azteca",
+      "city": "Cidade do México",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 2,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "kor",
+      "awayTeamId": "cze",
+      "date": "2026-06-11T17:00:00",
+      "stadium": "bbva",
+      "city": "Monterrey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 3,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "mex",
+      "awayTeamId": "kor",
+      "date": "2026-06-18T17:00:00",
+      "stadium": "akron",
+      "city": "Guadalajara",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 4,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "rsa",
+      "awayTeamId": "cze",
+      "date": "2026-06-18T17:00:00",
+      "stadium": "azteca",
+      "city": "Cidade do México",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 5,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "mex",
+      "awayTeamId": "cze",
+      "date": "2026-06-24T17:00:00",
+      "stadium": "bbva",
+      "city": "Monterrey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 6,
+      "phase": "group",
+      "group": "A",
+      "homeTeamId": "rsa",
+      "awayTeamId": "kor",
+      "date": "2026-06-24T17:00:00",
+      "stadium": "akron",
+      "city": "Guadalajara",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 7,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "can",
+      "awayTeamId": "bih",
+      "date": "2026-06-12T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 8,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "qat",
+      "awayTeamId": "sui",
+      "date": "2026-06-12T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 9,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "can",
+      "awayTeamId": "qat",
+      "date": "2026-06-18T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 10,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "bih",
+      "awayTeamId": "sui",
+      "date": "2026-06-18T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 11,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "can",
+      "awayTeamId": "sui",
+      "date": "2026-06-24T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 12,
+      "phase": "group",
+      "group": "B",
+      "homeTeamId": "bih",
+      "awayTeamId": "qat",
+      "date": "2026-06-24T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 13,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "bra",
+      "awayTeamId": "mar",
+      "date": "2026-06-13T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 14,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "hai",
+      "awayTeamId": "sco",
+      "date": "2026-06-13T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 15,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "bra",
+      "awayTeamId": "hai",
+      "date": "2026-06-19T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 16,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "mar",
+      "awayTeamId": "sco",
+      "date": "2026-06-19T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 17,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "bra",
+      "awayTeamId": "sco",
+      "date": "2026-06-25T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 18,
+      "phase": "group",
+      "group": "C",
+      "homeTeamId": "mar",
+      "awayTeamId": "hai",
+      "date": "2026-06-25T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 19,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "usa",
+      "awayTeamId": "par",
+      "date": "2026-06-12T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 20,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "aus",
+      "awayTeamId": "tur",
+      "date": "2026-06-12T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 21,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "usa",
+      "awayTeamId": "aus",
+      "date": "2026-06-19T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 22,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "par",
+      "awayTeamId": "tur",
+      "date": "2026-06-19T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 23,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "usa",
+      "awayTeamId": "tur",
+      "date": "2026-06-25T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 24,
+      "phase": "group",
+      "group": "D",
+      "homeTeamId": "par",
+      "awayTeamId": "aus",
+      "date": "2026-06-25T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 25,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "ger",
+      "awayTeamId": "cuw",
+      "date": "2026-06-13T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 26,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "civ",
+      "awayTeamId": "ecu",
+      "date": "2026-06-13T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 27,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "ger",
+      "awayTeamId": "civ",
+      "date": "2026-06-20T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 28,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "cuw",
+      "awayTeamId": "ecu",
+      "date": "2026-06-20T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 29,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "ger",
+      "awayTeamId": "ecu",
+      "date": "2026-06-26T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 30,
+      "phase": "group",
+      "group": "E",
+      "homeTeamId": "cuw",
+      "awayTeamId": "civ",
+      "date": "2026-06-26T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 31,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "ned",
+      "awayTeamId": "jpn",
+      "date": "2026-06-14T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 32,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "swe",
+      "awayTeamId": "tun",
+      "date": "2026-06-14T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 33,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "ned",
+      "awayTeamId": "swe",
+      "date": "2026-06-20T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 34,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "jpn",
+      "awayTeamId": "tun",
+      "date": "2026-06-20T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 35,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "ned",
+      "awayTeamId": "tun",
+      "date": "2026-06-26T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 36,
+      "phase": "group",
+      "group": "F",
+      "homeTeamId": "jpn",
+      "awayTeamId": "swe",
+      "date": "2026-06-26T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 37,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "bel",
+      "awayTeamId": "egy",
+      "date": "2026-06-14T17:00:00",
+      "stadium": "gillette",
+      "city": "Boston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 38,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "irn",
+      "awayTeamId": "nzl",
+      "date": "2026-06-14T17:00:00",
+      "stadium": "lincoln",
+      "city": "Filadélfia",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 39,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "bel",
+      "awayTeamId": "irn",
+      "date": "2026-06-21T17:00:00",
+      "stadium": "gillette",
+      "city": "Boston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 40,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "egy",
+      "awayTeamId": "nzl",
+      "date": "2026-06-21T17:00:00",
+      "stadium": "lincoln",
+      "city": "Filadélfia",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 41,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "bel",
+      "awayTeamId": "nzl",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "gillette",
+      "city": "Boston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 42,
+      "phase": "group",
+      "group": "G",
+      "homeTeamId": "egy",
+      "awayTeamId": "irn",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "lincoln",
+      "city": "Filadélfia",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 43,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "esp",
+      "awayTeamId": "cpv",
+      "date": "2026-06-15T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 44,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "ksa",
+      "awayTeamId": "uru",
+      "date": "2026-06-15T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 45,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "esp",
+      "awayTeamId": "ksa",
+      "date": "2026-06-21T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 46,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "cpv",
+      "awayTeamId": "uru",
+      "date": "2026-06-21T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 47,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "esp",
+      "awayTeamId": "uru",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 48,
+      "phase": "group",
+      "group": "H",
+      "homeTeamId": "cpv",
+      "awayTeamId": "ksa",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 49,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "fra",
+      "awayTeamId": "sen",
+      "date": "2026-06-15T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 50,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "irq",
+      "awayTeamId": "nor",
+      "date": "2026-06-15T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 51,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "fra",
+      "awayTeamId": "irq",
+      "date": "2026-06-22T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 52,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "sen",
+      "awayTeamId": "nor",
+      "date": "2026-06-22T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 53,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "fra",
+      "awayTeamId": "nor",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 54,
+      "phase": "group",
+      "group": "I",
+      "homeTeamId": "sen",
+      "awayTeamId": "irq",
+      "date": "2026-06-27T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 55,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "arg",
+      "awayTeamId": "alg",
+      "date": "2026-06-16T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 56,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "aut",
+      "awayTeamId": "jor",
+      "date": "2026-06-16T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 57,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "arg",
+      "awayTeamId": "aut",
+      "date": "2026-06-22T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 58,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "alg",
+      "awayTeamId": "jor",
+      "date": "2026-06-22T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 59,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "arg",
+      "awayTeamId": "jor",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 60,
+      "phase": "group",
+      "group": "J",
+      "homeTeamId": "alg",
+      "awayTeamId": "aut",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 61,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "por",
+      "awayTeamId": "cod",
+      "date": "2026-06-16T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 62,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "uzb",
+      "awayTeamId": "col",
+      "date": "2026-06-16T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 63,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "por",
+      "awayTeamId": "uzb",
+      "date": "2026-06-23T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 64,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "cod",
+      "awayTeamId": "col",
+      "date": "2026-06-23T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 65,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "por",
+      "awayTeamId": "col",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 66,
+      "phase": "group",
+      "group": "K",
+      "homeTeamId": "cod",
+      "awayTeamId": "uzb",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 67,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "eng",
+      "awayTeamId": "cro",
+      "date": "2026-06-17T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 68,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "gha",
+      "awayTeamId": "pan",
+      "date": "2026-06-17T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 69,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "eng",
+      "awayTeamId": "gha",
+      "date": "2026-06-23T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 70,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "cro",
+      "awayTeamId": "pan",
+      "date": "2026-06-23T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 71,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "eng",
+      "awayTeamId": "pan",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 72,
+      "phase": "group",
+      "group": "L",
+      "homeTeamId": "cro",
+      "awayTeamId": "gha",
+      "date": "2026-06-28T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 73,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1A",
+      "awayTeamId": "3CDE",
+      "date": "2026-06-30T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 74,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1C",
+      "awayTeamId": "3ABF",
+      "date": "2026-06-30T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 75,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1F",
+      "awayTeamId": "2B",
+      "date": "2026-07-01T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 76,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "2E",
+      "awayTeamId": "2I",
+      "date": "2026-07-01T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 77,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1B",
+      "awayTeamId": "3AGH",
+      "date": "2026-07-01T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 78,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1E",
+      "awayTeamId": "3BIJ",
+      "date": "2026-07-01T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 79,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1I",
+      "awayTeamId": "2C",
+      "date": "2026-07-02T17:00:00",
+      "stadium": "gillette",
+      "city": "Boston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 80,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "2A",
+      "awayTeamId": "2F",
+      "date": "2026-07-02T17:00:00",
+      "stadium": "lincoln",
+      "city": "Filadélfia",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 81,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "2D",
+      "awayTeamId": "3FJK",
+      "date": "2026-07-02T17:00:00",
+      "stadium": "lumen",
+      "city": "Seattle",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 82,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "2G",
+      "awayTeamId": "1D",
+      "date": "2026-07-02T17:00:00",
+      "stadium": "levis",
+      "city": "São Francisco",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 83,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1K",
+      "awayTeamId": "3EIL",
+      "date": "2026-07-03T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 84,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1H",
+      "awayTeamId": "2J",
+      "date": "2026-07-03T17:00:00",
+      "stadium": "bmo",
+      "city": "Toronto",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 85,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "2L",
+      "awayTeamId": "3HKL",
+      "date": "2026-07-03T17:00:00",
+      "stadium": "bcplace",
+      "city": "Vancouver",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 86,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1J",
+      "awayTeamId": "2H",
+      "date": "2026-07-03T17:00:00",
+      "stadium": "azteca",
+      "city": "Cidade do México",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 87,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1L",
+      "awayTeamId": "2K",
+      "date": "2026-07-04T17:00:00",
+      "stadium": "bbva",
+      "city": "Monterrey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 88,
+      "phase": "round32",
+      "group": null,
+      "homeTeamId": "1G",
+      "awayTeamId": "3DJL",
+      "date": "2026-07-04T17:00:00",
+      "stadium": "akron",
+      "city": "Guadalajara",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 89,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W73",
+      "awayTeamId": "W74",
+      "date": "2026-07-06T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 90,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W75",
+      "awayTeamId": "W76",
+      "date": "2026-07-06T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 91,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W77",
+      "awayTeamId": "W78",
+      "date": "2026-07-07T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 92,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W79",
+      "awayTeamId": "W80",
+      "date": "2026-07-07T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 93,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W81",
+      "awayTeamId": "W82",
+      "date": "2026-07-07T17:00:00",
+      "stadium": "arrowhead",
+      "city": "Kansas City",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 94,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W83",
+      "awayTeamId": "W84",
+      "date": "2026-07-08T17:00:00",
+      "stadium": "mercedes",
+      "city": "Atlanta",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 95,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W85",
+      "awayTeamId": "W86",
+      "date": "2026-07-08T17:00:00",
+      "stadium": "gillette",
+      "city": "Boston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 96,
+      "phase": "round16",
+      "group": null,
+      "homeTeamId": "W87",
+      "awayTeamId": "W88",
+      "date": "2026-07-09T17:00:00",
+      "stadium": "lincoln",
+      "city": "Filadélfia",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 97,
+      "phase": "quarter",
+      "group": null,
+      "homeTeamId": "W89",
+      "awayTeamId": "W90",
+      "date": "2026-07-11T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 98,
+      "phase": "quarter",
+      "group": null,
+      "homeTeamId": "W91",
+      "awayTeamId": "W92",
+      "date": "2026-07-11T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 99,
+      "phase": "quarter",
+      "group": null,
+      "homeTeamId": "W93",
+      "awayTeamId": "W94",
+      "date": "2026-07-12T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 100,
+      "phase": "quarter",
+      "group": null,
+      "homeTeamId": "W95",
+      "awayTeamId": "W96",
+      "date": "2026-07-12T17:00:00",
+      "stadium": "nrg",
+      "city": "Houston",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 101,
+      "phase": "semi",
+      "group": null,
+      "homeTeamId": "W97",
+      "awayTeamId": "W98",
+      "date": "2026-07-14T17:00:00",
+      "stadium": "att",
+      "city": "Dallas",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 102,
+      "phase": "semi",
+      "group": null,
+      "homeTeamId": "W99",
+      "awayTeamId": "W100",
+      "date": "2026-07-15T17:00:00",
+      "stadium": "sofi",
+      "city": "Los Angeles",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 103,
+      "phase": "thirdPlace",
+      "group": null,
+      "homeTeamId": "L101",
+      "awayTeamId": "L102",
+      "date": "2026-07-18T17:00:00",
+      "stadium": "hardrock",
+      "city": "Miami",
+      "homeGoals": null,
+      "awayGoals": null
+    },
+    {
+      "id": 104,
+      "phase": "final",
+      "group": null,
+      "homeTeamId": "W101",
+      "awayTeamId": "W102",
+      "date": "2026-07-19T17:00:00",
+      "stadium": "metlife",
+      "city": "Nova York/Nova Jersey",
+      "homeGoals": null,
+      "awayGoals": null
+    }
+  ]
+}
