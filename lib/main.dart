@@ -1,3 +1,4 @@
+import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -26,8 +27,9 @@ class WorldCupApp extends StatelessWidget {
       theme: AppTheme.light,
       routerConfig: appRouter,
       localizationsDelegates: const [
-        DefaultMaterialLocalizations.delegate,
-        DefaultWidgetsLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
       ],
       supportedLocales: const [Locale('pt', 'BR')],
       locale: const Locale('pt', 'BR'),
